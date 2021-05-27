@@ -1,11 +1,13 @@
 rencana konten wpu
 
 - javascript
-  es6
-  frameworks javascript
-    angular
-    react 
+    es6
+    frameworks javascript
+      vue
+      react
+- struktur data dasar
 - php frameworks
     laravel
 - interview
 - vlogs
+- python
